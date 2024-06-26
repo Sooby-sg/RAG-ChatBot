@@ -20,4 +20,4 @@ Decimal points were standardized, blank entries were updated, and redundant colu
 were removed. Additionally, text columns were cleaned to remove HTML tags and
 unnecessary characters.
 
-To run the Bot, Please run the main.ipynb from scratch
+To run the Bot, Please run the main.ipynb from scratch after replacing the test OPEN AI Key to user key
