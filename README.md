@@ -19,3 +19,5 @@ The format of the CSV dataset was designed to enhance readability and data quali
 Decimal points were standardized, blank entries were updated, and redundant columns
 were removed. Additionally, text columns were cleaned to remove HTML tags and
 unnecessary characters.
+
+To run the Bot, Please run the main.ipynb from scratch
